@@ -73,5 +73,10 @@
 
 ![Snake](https://raw.githubusercontent.com/gospodinFullStack/gospodinFullStack/output/github-contribution-grid-snake.svg)
 
-## 📫 Связь
-- Telegram: @Batyarulit67
+## 📬 Связь
+
+<p align="center">
+  <a href="https://t.me/Batyarulit67">
+    <img src="https://img.shields.io/badge/💬_Написать_в_Telegram-2CA5E0?style=for-the-badge"/>
+  </a>
+</p>
