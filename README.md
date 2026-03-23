@@ -1,6 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=gospodinFullStack&color=blue)
 ![Followers](https://img.shields.io/github/followers/gospodinFullStack?style=social)
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Привет,%20я%20gospodinFullStack&fontSize=42&fontAlign=50&fontAlignY=40&color=0:7F00FF,50:00C6FF,100:FF00AA&fontColor=ffffff&animation=twinkling" />
+</p>
 # 👋 Привет, я gospodinFullStack
 
 
