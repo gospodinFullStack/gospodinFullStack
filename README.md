@@ -69,17 +69,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="46" />
 </p>
 
-
-
-## 📊 Статистика
-
-![Stats](https://github-readme-stats.vercel.app/api?username=gospodinFullStack&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gospodinFullStack&theme=tokyonight&hide_border=true&border_radius=12)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gospodinFullStack&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=gospodinFullStack&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15)
-
 ## 📫 Связь
 - Telegram: @Batyarulit67
