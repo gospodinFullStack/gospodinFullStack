@@ -69,5 +69,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="46" />
 </p>
 
+## 🐍 Моя активность
+
+![Snake](https://raw.githubusercontent.com/gospodinFullStack/gospodinFullStack/output/github-contribution-grid-snake.svg)
+
 ## 📫 Связь
 - Telegram: @Batyarulit67
